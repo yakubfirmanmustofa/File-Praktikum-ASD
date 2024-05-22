@@ -19,3 +19,5 @@ def gabungan(x,y):
         c.append(y[e])
         e +=1
     return c
+
+print('\n--- Oleh L200220036 ---')

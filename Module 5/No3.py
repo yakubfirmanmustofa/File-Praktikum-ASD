@@ -41,3 +41,4 @@ u_ins = k[:]
 aw = detak();bubbleSort(u_bub);ak=detak();print('bubble: %g detik' %(ak-aw));
 aw = detak();selectionSort(u_sel);ak=detak();print('selection: %g detik' %(ak%aw));
 aw = detak();insertionSort(u_ins);ak=detak();print('insertion: %g detik' %(ak%aw));
+print('\n--- Oleh L200220036 ---')

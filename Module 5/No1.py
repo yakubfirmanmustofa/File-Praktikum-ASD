@@ -23,3 +23,5 @@ def urutkanNIM(mhstif):
 def cetak(mhstif):
     for i in mhstif:
         print( i.nim, i.nama, i.kotaTinggal)
+
+    print('\n--- Oleh L200220036 ---')
